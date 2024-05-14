@@ -34,8 +34,8 @@ npm -v
 To install git, run below commands in the terminal window:
 
 ```bash
-sudo yum update -y
-sudo yum install git -y
+sudo apt-get update -y
+sudo apt-get install git -y
 ```
 
 Just to verify if system has git installed or not, please run below command in terminal:
@@ -64,3 +64,4 @@ To start the application, run the below command in the terminal:
 ```bash
 npm start
 ```
+
